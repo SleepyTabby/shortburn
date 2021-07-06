@@ -1,0 +1,7 @@
+2 shaders:
+outline the characters and items used
+the animation moves alougn if you walk the path the killer took or it moves back if you walk the path back as such it can also be paused by standing still
+
+
+
+maybe dissapear when far away 
